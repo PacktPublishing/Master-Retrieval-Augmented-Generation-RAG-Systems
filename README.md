@@ -1,9 +1,3 @@
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
-
-<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
-
 # Master Retrieval-Augmented Generation (RAG) Systems
 This is the code repository for Master Retrieval-Augmented Generation (RAG) Systems, published by [Packt](https://www.packtpub.com/en-us). It contains all the supporting project files necessary to work through the video course from start to finish.
 
